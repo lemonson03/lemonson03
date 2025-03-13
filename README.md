@@ -9,7 +9,9 @@
   </tr>
 </table>
 
-![Profile Picture](assets/profilepic.jpeg)
+<p align="center">
+  <img src="assets/profilepic.jpeg" width="40%" style="max-width: 200px; height: auto;">
+</p>
 
 ### Experiences
 - UMC 7기 F.E Swift 수료 ( 2024.09 ~ 2025.02 ) https://github.com/UMC-Archive
