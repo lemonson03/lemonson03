@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-![Profile Picture](profilepic.jpeg)
+![Profile Picture](assets/profilepic.jpeg)
 
 ### Experiences
 - UMC 7기 F.E Swift 수료 ( 2024.09 ~ 2025.02 ) https://github.com/UMC-Archive
