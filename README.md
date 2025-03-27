@@ -33,3 +33,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=5eungwon&theme=radical" width="400">
 </p>
 
+### Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonson03&layout=compact)
+
+
