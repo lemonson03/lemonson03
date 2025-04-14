@@ -21,7 +21,7 @@
 - UMC 7기 데모데이 우수상 https://github.com/UMC-Archive
   
 ### Contact Me
-- instagram : harii_lemon
+
 - tech blog : https://blog.naver.com/harryhyunbin
 ---
 
