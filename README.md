@@ -10,7 +10,7 @@
 </table>
 
 <p align="center">
-  <img src="assets/profilepic.jpeg" width="40%" style="max-width: 200px; height: auto;">
+
 </p>
 
 ### Experiences
