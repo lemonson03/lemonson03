@@ -2,9 +2,7 @@
 <table>
   <tr>
     <td>
- //     <h2> 손현빈 (Son HyunBin) </h2>
       <p> Software Developer</p> 
-   //   <p> Kyunghee Univ. Applied Mathematics & Computer Science Engineering (2022.03 ~ ing)</p>
     </td>
   </tr>
 </table>
