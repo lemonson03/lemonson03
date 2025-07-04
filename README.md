@@ -36,7 +36,7 @@
 <p align="center">
   <!-- 백준 solved.ac 티어 뱃지 -->
   <a href="https://solved.ac/harryhyunbin">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfgh0986" alt="Solved.ac Profile">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=harryhyunbin" alt="Solved.ac Profile">
   </a>
 </p>
 
