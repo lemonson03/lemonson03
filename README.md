@@ -32,6 +32,15 @@
 - tech blog : https://blog.naver.com/harryhyunbin
 ---
 
+### 🏅Solved.ac
+<p align="center">
+  <!-- 백준 solved.ac 티어 뱃지 -->
+  <a href="https://solved.ac/harryhyunbin">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfgh0986" alt="Solved.ac Profile">
+  </a>
+</p>
+
+
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lemonson03&show_icons=true&theme=radical" width="400">
