@@ -17,7 +17,7 @@
 - ACC(AWS Cloud Club) 3기 수료 ( 2025.03 ~ 2025.11 )
 - 웹/파이썬 프로그래밍 실습 조교( 2025.03 ~ 2025.06 )
 - 구름톤 유니브 4기 - 교내 운영진
-- 경희대학교 우주과학과 웹페이지 리팩토링 https://ssil.khu.ac.kr
+- 경희대학교 우주과학과 웹페이지 리팩토링 (진행중 아직 반영이 안된 url입니다. )https://ssil.khu.ac.kr
   
 ### Awards 
 - UMC 7기 데모데이 우수상 https://github.com/UMC-Archive
