@@ -42,12 +42,6 @@
 </p>
 
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lemonson03&show_icons=true&theme=radical" width="400">
-
-</p>
-
 ### Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonson03&layout=compact)
 
