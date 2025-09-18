@@ -19,6 +19,7 @@
 - 구름톤 유니브 4기 - 교내 운영진
 - GDGoC 2기 Core Member (2025.09 ~ 2025.12)
 - 경희대학교 우주과학과 웹페이지 리팩토링  https://ssil.khu.ac.kr
+- LLM 경량화 프로젝트 학부연구생 (2025.09~)
   
 ### Awards 
 - UMC 7기 데모데이 우수상 https://github.com/UMC-Archive
