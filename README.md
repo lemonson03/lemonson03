@@ -34,7 +34,7 @@
 - tech blog : https://blog.naver.com/harryhyunbin
 
 ### Certifications
-- SQLD 58회 
+- 제 58회 SQLD 
 ---
 
 ### 🏅Solved.ac
