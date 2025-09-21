@@ -32,6 +32,9 @@
 ### Contact Me
 - portfolio : https://plume-tune-8e0.notion.site/PORTFORLIO-174c600a5ce680bf91ffe537a4aae47f?pvs=4
 - tech blog : https://blog.naver.com/harryhyunbin
+
+### Certifications
+- SQLD 58회 
 ---
 
 ### 🏅Solved.ac
