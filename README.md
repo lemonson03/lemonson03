@@ -43,6 +43,4 @@
 </p>
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lemonson03&theme=react-dark&color=3b82f6&bg_color=0d1117)
-
 
