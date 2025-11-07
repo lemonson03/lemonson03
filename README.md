@@ -25,10 +25,6 @@
 - UMC 7기 데모데이 우수상 https://github.com/UMC-Archive
 
 
-
-### Contact Me
-- tech blog : https://blog.naver.com/harryhyunbin
-
 ### Certifications
 - 제 58회 SQLD
 - TOPCIT 625점 (level 3)
