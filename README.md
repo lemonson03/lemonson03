@@ -23,6 +23,7 @@
   
 ### Awards 
 - UMC 7기 데모데이 우수상 https://github.com/UMC-Archive
+- AI NoCode MCP Hackathon Season 2 최우수상 (한국지능정보사회진흥원 원장상) 
 
 
 ### Certifications
