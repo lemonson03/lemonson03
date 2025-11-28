@@ -22,8 +22,8 @@
 - LLM 경량화 프로젝트 학부연구생 (2025.09~)
   
 ### Awards 
-- UMC 7기 데모데이 우수상 https://github.com/UMC-Archive
-- AI NoCode MCP Hackathon Season 2 최우수상 (한국지능정보사회진흥원 원장상) 
+- UMC 7기 데모데이 우수상 https://github.com/UMC-Archive (2025.02)
+- AI NoCode MCP Hackathon Season 2 최우수상 (한국지능정보사회진흥원 원장상) (2025.11) 
 
 
 ### Certifications
