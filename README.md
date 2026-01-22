@@ -23,7 +23,7 @@
 - 경희대학교 GLAMP 사업단 웹페이지 기획, 개발, 운영 (2025.11 ~)
 
 ### Side Projects 
-- ACC - KHU 지부 웹페이지 제작 ; https://acckhu.com/
+- ACC KHU 지부 웹페이지 제작: https://acckhu.com/
   
 ### Awards 
 - UMC 7기 데모데이 우수상 https://github.com/UMC-Archive (2025.02)
