@@ -17,13 +17,14 @@
 - ACC(AWS Cloud Club) 3기 수료 ( 2025.03 ~ 2025.11 )
 - 웹/파이썬 프로그래밍 실습 조교( 2025.03 ~ 2025.06 )
 - GDGoC 2기 Core Member (2025.09 ~ 2025.12)
-- 경희대학교 우주과학과 웹페이지 리팩토링  https://ssil.khu.ac.kr (2025.08 ~ 2025.10)
+- 경희대학교 우주과학과 웹페이지 리팩토링 https://ssil.khu.ac.kr (2025.08 ~ 2025.10)
 - LLM 경량화 프로젝트 학부연구생 (2025.09~)
 - 경희대학교 GLAMP 사업단 웹페이지 기획, 개발, 운영 (2025.11 ~)
 - ACC(AWS Cloud CLub) 4기 캡틴 (2026.01 ~ )
 
 ### Side Projects 
-- ACC KHU 지부 웹페이지 제작: https://acckhu.com/
+- ACC KHU 지부 웹페이지 제작 https://acckhu.com/
+- SSIL 연구실 LUSEM 조작 GUI 제작 https://github.com/lemonson03/SSIL_VATA460_control_GUI
   
 ### Awards 
 - UMC 7기 데모데이 우수상 https://github.com/UMC-Archive (2025.02)
