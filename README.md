@@ -24,7 +24,7 @@
 
 ### Side Projects 
 - ACC KHU 지부 웹페이지 제작 https://acckhu.com/
-- SSIL 연구실 LUSEM 조작 GUI 제작 https://github.com/lemonson03/SSIL_VATA460_control_GUI
+
   
 ### Awards 
 - UMC 7기 데모데이 우수상 https://github.com/UMC-Archive (2025.02)
