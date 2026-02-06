@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <p> Kyunghee University Student / Applied Mathemathics & Computer Science Engineering</p> 
+      <p>University Student / Applied Mathemathics & Computer Science Engineering</p> 
     </td>
   </tr>
 </table>
