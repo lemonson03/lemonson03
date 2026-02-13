@@ -11,6 +11,11 @@
 
 </p>
 
+
+### Careers
+- 에픽카 주식회사 (2026.03 ~ )
+
+
 ### Experiences
 - UMC 7기 F.E Swift 수료 ( 2024.09 ~ 2025.02 ) https://github.com/UMC-Archive
 - 구름톤 유니브 4기 수료 B.E Spring 및 교내 운영진 ( 2025.03 ~ 2025.11 )
