@@ -21,6 +21,7 @@
 - LLM 경량화 프로젝트 학부연구생 (2025.09~)
 - 경희대학교 GLAMP 사업단 웹페이지 기획, 개발, 운영 (2025.11 ~)
 - ACC(AWS Cloud CLub) 4기 캡틴 (2026.01 ~ )
+  
 
 ### Side Projects 
 - ACC KHU 지부 웹페이지 제작 https://acckhu.com/
@@ -34,6 +35,7 @@
 ### Certifications
 - 제 58회 SQLD
 - TOPCIT 625점 (level 3)
+- AWS SAA C03 Assocaite https://www.credly.com/badges/97e4dc51-d8ab-4d7b-8869-c5e2095b38aa/public_url
 ---
 
 ### 🏅Solved.ac
