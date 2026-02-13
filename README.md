@@ -13,7 +13,7 @@
 
 
 ### Careers
-- 에픽카 주식회사 (2026.03 ~ )
+- 에픽카 주식회사 (2026.03 ~ ) https://www.eficar.co.kr/
 
 
 ### Experiences
